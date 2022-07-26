@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Mukta&family=Roboto+Mono:wght@600&display=swap');
+
+html {
+    font-family: 'Mukta', sans-serif;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: #333335;
+    color: #FFFF;
+}
+
+.obra-de-arte{
+    font-family: 'Roboto Mono', monospace;
+}
